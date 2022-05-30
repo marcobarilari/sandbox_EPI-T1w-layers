@@ -8,3 +8,6 @@
 	path = outputs/derivatives
 	url = ./outputs/derivatives
 	datalad-id = 056e3702-d959-41e2-8c08-dbc798567807
+[submodule "code/lib/CPP_HighRes_fMRI"]
+	path = code/lib/CPP_HighRes_fMRI
+	url = https://github.com/cpp-lln-lab/CPP_HighRes_fMRI.git
