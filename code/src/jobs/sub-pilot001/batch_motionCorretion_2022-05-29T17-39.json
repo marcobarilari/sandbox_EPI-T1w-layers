@@ -1,0 +1,52 @@
+{
+  "GeneratedBy": {
+    "name": "cpp_spm",
+    "Version": "v1.1.4dev",
+    "Description": "motionCorretion",
+    "CodeURL": "https://github.com/cpp-lln-lab/CPP_SPM"
+  },
+  "OS": {
+    "name": "MACI64",
+    "platform": {
+      "name": "Matlab",
+      "version": "9.3.0.713579 (R2017b)"
+    },
+    "spmVersion": "SPM12 - 7487",
+    "environmentVariables": {
+      "ARCH": "maci64",
+      "AUTOMOUNT_MAP": "",
+      "AWT_TOOLKIT": "CToolkit",
+      "Apple_PubSub_Socket_Render": "/private/tmp/com.apple.launchd.BAB50T6qBa/Render",
+      "BASEMATLABPATH": "",
+      "DISPLAY": "/private/tmp/com.apple.launchd.a1tN0pQO8P/org.xquartz:0",
+      "HOME": "/Users/barilari",
+      "KMP_BLOCKTIME": "1",
+      "KMP_HANDLE_SIGNALS": "0",
+      "KMP_INIT_AT_FORK": "false",
+      "KMP_STACKSIZE": "512k",
+      "LANG": "en_US.UTF-8",
+      "LC_CTYPE": "UTF-8",
+      "LC_MESSAGES": "en_US",
+      "LOGNAME": "barilari",
+      "MATLAB_USE_USERWORK": "",
+      "MKL_DOMAIN_NUM_THREADS": "",
+      "MKL_NUM_THREADS": "",
+      "OSG_LD_LIBRARY_PATH": "/Applications/MATLAB_R2017b.app/sys/openscenegraph/lib/maci64",
+      "PATH": "/usr/bin:/bin:/usr/sbin:/sbin",
+      "PWD": "/Users/barilari/data/sandbox_EPI-T1w-layers/code/src",
+      "SHELL": "/bin/bash",
+      "SHLVL": "1",
+      "SSH_AUTH_SOCK": "/private/tmp/com.apple.launchd.tYywjGeWgT/Listeners",
+      "TERM": "dumb",
+      "TMPDIR": "/var/folders/jr/kl0csr_15nlgrkm0pg7wch640000gn/T/",
+      "TOOLBOX": "/Applications/MATLAB_R2017b.app/toolbox",
+      "USER": "barilari",
+      "XFILESEARCHPATH": "/Applications/MATLAB_R2017b.app/sys/java/jre/maci64/jre/lib/locale/%L/%T/%N%S:",
+      "XPC_FLAGS": "0x0",
+      "XPC_SERVICE_NAME": "com.mathworks.matlab.110160",
+      "CF_USER_TEXT_ENCODING": "0x1F5:0x0:0x0",
+      "KMP_REGISTERED_LIB_3488": "0x10e4b1bd0-cafee850-libiomp5.dylib",
+      "KMP_REGISTERED_LIB_7260": "0x1137b6bd0-cafe3a16-libiomp5.dylib"
+    }
+  }
+}

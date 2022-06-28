@@ -13,7 +13,7 @@ function opt = high_res_get_option()
   opt.dataDir = '/Users/barilari/Desktop/data_temp/Marco_HighRes/raw';
   opt.derivativesDir = '/Users/barilari/data/sandbox_EPI-T1w-layers/outputs/derivatives/cpp_spm-preproc';
 
-  opt.subLabel = 'pilot005';
+  opt.subLabel = 'pilot001';
 
   opt.task = 'gratingBimodalMotion';
 

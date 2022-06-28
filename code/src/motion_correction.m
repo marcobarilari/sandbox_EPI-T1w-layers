@@ -61,7 +61,7 @@ end
 batchName = 'motionCorretion';
 saveAndRunWorkflow(matlabbatch, batchName, opt, opt.subLabel);
 
-exit;
+% exit;
 
 %% sub functions
 
